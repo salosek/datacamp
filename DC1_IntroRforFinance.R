@@ -1,4 +1,4 @@
-# Intro to R for Finance
+# Intro to R for Finance, testing Github
 
 # [1] The Basics
 
